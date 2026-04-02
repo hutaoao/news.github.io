@@ -16,7 +16,7 @@ timezone:
 
 title: 独行的风 # the main title
 
-tagline: 从前端广度到技术深度的蜕变之旅 # it will display as the subtitle
+tagline: 高质量前端技术信息源 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   系统化学习JavaScript、TypeScript、Vue、React、跨端开发、原生扩展、网络性能与工程化等核心领域。每周产出深度技术文档，包含底层原理、实战案例和高频面试题解析，帮助中高级前端开发者建立完整的深度知识体系。
