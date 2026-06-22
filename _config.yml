@@ -16,10 +16,10 @@ timezone:
 
 title: 独行的风 # the main title
 
-tagline: 高质量前端技术信息源 # it will display as the subtitle
+tagline: 每日前端技术动态精选 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  系统化学习JavaScript、TypeScript、Vue、React、跨端开发、原生扩展、网络性能与工程化等核心领域。每周产出深度技术文档，包含底层原理、实战案例和高频面试题解析，帮助中高级前端开发者建立完整的深度知识体系。
+  每日精选前端领域核心动态：JavaScript/TypeScript、React/Vue、跨端开发、AI编程工具、工具链生态。多源交叉验证，精简呈现，链接直达原文。适合关注技术前沿的中高级前端开发者。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
